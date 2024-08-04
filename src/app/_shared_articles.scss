@@ -1,0 +1,36 @@
+.card {
+    width: 95%;
+    margin-bottom: 2%;
+  }
+  
+  .container {
+    margin: 15px;
+    width: 100%;
+  }
+  
+  .img-article {
+      width: 125px;
+      height: 125px;
+      margin: 5px;
+      margin-top: 5px;
+      margin-left: 2px;
+      object-fit: cover;
+      border-radius: 2rem;
+  }
+  
+  .mat-table {
+      overflow: auto;
+      max-height: 500px;
+  }
+  
+  a {
+      cursor: pointer;
+      text-decoration: none;
+      color: black;
+      font-size: medium;
+  }
+
+  .fullcoverage {
+      color: #1a73e8;
+      font-size: .75rem;
+  }
